@@ -25,16 +25,11 @@ Before embarking on your journey, ensure you have the following tools and accoun
 - Create a "Cryptocurrency" table to hold your treasure.
 - Remember your AirTable API key and base ID for future adventures.
 
-**2. Configure CoinGecko API (Optional)**
 
-- If you're after more riches, sign up for the CoinGecko API.
-- Acquire your own CoinGecko API key.
-
-**3. Update Application Configuration**
+**2. Update Application Configuration**
 
 - Open `src/main/resources/application.properties`.
-- Replace `YOUR_AIRTABLE_API_KEY` with your actual AirTable API key.
-- If you're joining the CoinGecko API club, replace `YOUR_COINGECKO_API_KEY` with your CoinGecko API key.
+- Get your actual AirTable API key.
 
 ### Unleash the Magic
 
